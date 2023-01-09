@@ -1,4 +1,4 @@
-node{
+node{ 
    stage('SCM Checkout'){
      git 'https://github.com/ravick02/my-app.git'
    }
